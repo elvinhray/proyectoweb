@@ -8,7 +8,7 @@ import handlebars from 'vite-plugin-handlebars';
 import hbsContext  from './context/variables';
 export default defineConfig(
     {
-        base: '/proyectofinal_pw2/',
+        base: '/proyectoweb/',
         appType: 'mpa',
         build: {
             rollupOptions: {
