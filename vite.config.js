@@ -8,6 +8,7 @@ import handlebars from 'vite-plugin-handlebars';
 import hbsContext  from './context/variables';
 export default defineConfig(
     {
+        
         base: '/proyectoweb/',
         appType: 'mpa',
         build: {
