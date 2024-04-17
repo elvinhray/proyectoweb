@@ -9,7 +9,7 @@ import hbsContext  from './context/variables';
 export default defineConfig(
     {
         
-        base: '/proyectoweb/',
+        base: '',
         appType: 'mpa',
         build: {
             rollupOptions: {
